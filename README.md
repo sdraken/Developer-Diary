@@ -9,26 +9,4 @@ Put simply, I want some way aside from my academic degree to show what I'm capab
 
 To close of this section I just want to make clear, that I have in fact, written code. I would estimate that around 40% of my time at KTH have been related to software development in some way. I might be able to share some amount of this code but this isn't something I'll be doing. The main reason for this is that several courses at KTH seem to have the same assignments each time they are taught. I'm fairly certain that I would be breaking some sort of rules by sharing my solutions to these assignments. Even if that wasn't the case, I wouldn't feel comfortable potentially aiding others in cheating.
 
-Even though I'm not sharing any of my code written at KTH, I might still talk about a particular solution if I thought it was interesting for one reason of another. As an example, as a part of a course about programming paradigms we were suppose to write a compiler for a simple, made up language. Implementing lexical tokenization (converting the raw text into tokens) was recommended to do with the `java.util.regex` package, but how does that work exactly? In truth most implementations of regular expressions simply translate a string specifying valid patterns, into a corresponding DFA (Deterministic finite automaton). Instead of relying on the abstractions given to us by the package, why can't we just determine the DFA for the lexical tokenization ourselves? I implemented my regular expression as an array, representing the state transition table of the underlying DFA. Everything worked as expected and it was a fun way to demystify regular expressions. Most of my solutions that I find interesting usually involve looking at an implementation at a lower level of abstraction. Abstraction is really useful in a lot of practical situations, but relying too much on abstraction can limits ones understanding of what the code is actually doing. 
-
-## My capabilities
-What capabilities do I have that I want to demonstrate?
-- Software development
-	- Algorithms and data structures
-	- Distributed version control
-		- Git, GitHub
-	- Databases
-	- Working with different programming paradigms
-		- imperative programming: procedural and object-oriented
-			- C, C++ and Java
-		- Declarative: Functional and logical
-			- Haskell and prolog
-		- Dynamically typed
-			- Python, MATLAB
-	- Working with or close to operating systems
-- Mathematics
-	- Multivariable and vector calculus
-	- Algebra and geometry
-	- Discrete mathematics
-	- Numerical methods
-	- Probability and statistics
+Even though I'm not sharing any of my code written at KTH, I might still talk about a particular solution if I thought it was interesting for one reason of another. As an example, as a part of a course about programming paradigms we were suppose to write a compiler for a simple, made up language. Implementing [lexical tokenization](https://en.wikipedia.org/wiki/Lexical_analysis) (converting the raw text into tokens) was recommended to do with the `java.util.regex` package, but how does that work exactly? In truth most implementations of [regular expressions ](https://en.wikipedia.org/wiki/Regular_expression)simply translate a string specifying valid patterns, into a corresponding [DFA](https://en.wikipedia.org/wiki/Deterministic_finite_automaton) (Deterministic finite automaton). Instead of relying on the abstractions given to us by the package, why can't we just determine the DFA for the lexical tokenization ourselves? I implemented my regular expression as an array, representing the state transition table of the underlying DFA. Everything worked as expected and it was a fun way to demystify regular expressions. Most of my solutions that I find interesting usually involve looking at an implementation at a lower level of abstraction. Abstraction is really useful in a lot of practical situations, but relying too much on abstraction can limits ones understanding of what the code is actually doing.
