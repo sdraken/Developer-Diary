@@ -1,3 +1,4 @@
+A list of my projects are found in [Projects.md](https://github.com/sdraken/Developer-Diary/blob/main/Projects.md). Updates on what's currently being worked on can be found in the [Developer-Diary.md](https://github.com/sdraken/Developer-Diary/blob/main/Developer-Diary.md)
 ## Welcome To My Developer Diary
 Hello, my name is Svante Drakenberg. I've created this repository to serve as the home for all the different projects I'm planning to work on. Its purpose it to demonstrate my capabilities as a software developer in a convenient and easily understood way. 
 ## What is the purpose of this repository?
