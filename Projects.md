@@ -3,7 +3,7 @@ This is where I'll list my projects. My goal with these projects is to both high
 1. Directly related to software development (i.e. Algorithms, Data Structures, Distributed Version Control, Databases, etc.)  
 2. Mathematics (i.e. Calculus, Algebra, Discrete Mathematics, etc.)
 ## Links
-
+- [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101) A basic overview of distributed version control, what it is, and how I'll be using git throughout my projects
 ## Capabilities
 - Software development
 	- Algorithms
