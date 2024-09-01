@@ -4,6 +4,9 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary. 
+
+## 2024/09/01
+[Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101) is close to complete. I'm decently satisfied with the topics that are covered, and i think I've explained the concepts in an understandable way. I still have to polish the text somewhat, and look out for anything that I might be wrong about. When it comes to Git, I feel like people use explanations that are intuitive but not descriptive of the underlying process. I've been trying to avoid falling into this trap, but I'm prepared for the possibility that parts of [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101) might not be correct.
 ## 2024/08/28
 Been making steady progress with [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101), although I might've gone outside the projects original scope a bit. There is less of a focus on Git/GitHub and I've read a lot about the general foundation behind version control. But I feel like I'm learning a lot and that I have a better grasp of how to use Git/GitHub, so I'm not gonna be to strict on myself. 
 
