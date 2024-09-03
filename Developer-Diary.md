@@ -5,6 +5,9 @@ Each entry starts with a header specifying the date. The diary is sorted in desc
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary. 
 
+
+## 2024/09/03
+The [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101/) project is completed. I've covered what I want to cover and the only thing that remains is the finishing touches. I still need to add a few references and check for bad spelling/Grammar.
 ## 2024/09/01
 [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101) is close to complete. I'm decently satisfied with the topics that are covered, and i think I've explained the concepts in an understandable way. I still have to polish the text somewhat, and look out for anything that I might be wrong about. When it comes to Git, I feel like people use explanations that are intuitive but not descriptive of the underlying process. I've been trying to avoid falling into this trap, but I'm prepared for the possibility that parts of [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101) might not be correct.
 ## 2024/08/28
