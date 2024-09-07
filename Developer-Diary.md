@@ -3,7 +3,9 @@ The Developer Diary will be contained within this singular markdown file. I migh
 
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
-There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary. 
+There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+## 2024/09/07
+I setup [VulkanTutorials](https://github.com/sdraken/VulkanTutorials), it was honestly a lot harder than I thought. Well... it was easy to setup but I didn't like using visual studio, so i had to learn cmake which made it take a lot longer.
 ## 2024/09/06
 Went through the contents of [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101/) one last time. Adding references and improving on the grammar. I Might revisit the project at a later date, but right now I'm satisfied. For my next project I will be working with 3D graphics using the Vulkan API. As a start I'll go through [this](https://vulkan-tutorial.com/) vulkan tutorial written by Alexander Overvoorde. My code for any vulkan tutorials will be in [this](https://github.com/sdraken/VulkanTutorials) repo.
 ## 2024/09/03
