@@ -4,6 +4,8 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+## 2024/09/11
+I've been reading a lot about Vulkan and C++. When going through the tutorial I often find myself wanting to reconfigure the author's code, but I shouldn't focus on trying to optimize the performance/readability of the tutorial. What's important is that I understand the concepts that the tutorial is introducing. Because of this I've put a greater focus on writing notes as I go through the tutorial, describing new concepts and how I can use them. 
 ## 2024/09/09
 I have more concrete goals for what guides I want to complete. First I'll go through [this](https://vulkan-tutorial.com/) vulkan tutorial written by Alexander Overvoorde, any code related to that will be in [this](https://github.com/sdraken/vulkan-tutorial) repo. After that I'll go through [this](https://vkguide.dev) tutorial (couldn't find author's name), storing everything related to it [here](https://github.com/sdraken/vkguide). From what I've heard these 2 tutorials are exactly what i need and I feel like I'll be ready to start making my own 3D application after I'm done with them. I would've uploaded some progress on the first guide today/yesterday, but I haven't had access to a computer for a bit so I've only been able to read the guide/documentation. 
 ## 2024/09/07
