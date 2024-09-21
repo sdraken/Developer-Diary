@@ -4,6 +4,10 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+## 2024/09/21
+I'm finally able to draw a simple triangle, it's amazing how more than half of the tutorial is spent on getting to that stage. It just goes to show how explicitly you have to tune everything in Vulkan, rendering a model isn't too much additional work once everything has been set up. Once I've completed the "Drawing a triangle" chapter I'll be redoing the code in my own style, to test myself on what I've learned.
+
+After thinking about it some more, I don't think I'll be doing the [second tutorial](https://vkguide.dev). I'll finish [this tutorial](https://vulkan-tutorial.com/) in its entirety, but after that I feel like I'll have a good enough foundation to start on my own project.
 ## 2024/09/16
 I've been making steady progress. shifting my focus to understanding Vulkan's concepts was definitely the right call, even though it's making the tutorial take a lot longer. Any time I feel like I don't fully grasp a concept, I do a lot of extra reading on the topic.
 
