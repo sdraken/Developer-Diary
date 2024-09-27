@@ -4,6 +4,8 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+## 2024/09/29
+I completed the "Vertex buffers" chapter of the tutorial. Next is a chapter on Uniform buffers
 ## 2024/09/23
 I've completed the "Drawing a triangle" chapter, but I don't think I'll be redoing the code in my own style. After thinking some more, it doesn't seem smart to refactor and come up with a structure when I don't even understand all the basics of Vulkan. I want to start writing my own code, but I shouldn't let that get in the way of me learning effectively. I'll be continuing the tutorial like normal, next up is chapter 3 about vertex buffers.
 
