@@ -4,6 +4,8 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+## 2024/10/01
+I completed the "Uniform buffers" chapter of the tutorial. It's funny, but I have sort of a love-hate relationship with the tutorial. The tutorial aims to quickly make something appear on the screen (i.e drawing a triangle) and then adding further functionality once the basics have been implemented. This way of designing a tutorial makes it easier to keep people engaged and you get a decent overview of how Vulkan works. The main disadvantage (in my opinion) is that it easily lends itself to overly simplifying how Vulkan works 'under the hood' which can lead to confusion when you thought something worked a certain way.
 ## 2024/09/29
 I completed the "Vertex buffers" chapter of the tutorial. Next is a chapter on Uniform buffers
 ## 2024/09/23
