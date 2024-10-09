@@ -4,6 +4,9 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+## 2024/10/09
+I completely understand the "Loading models" chapter of the tutorial, I still need to add the code and notes. I've been sick for the last couple of days, so progress has been slow but I've been reading a lot about things related to the chapter. I've also read about how I should go about structuring my 3D application, it's not only rendering that I need to consider. I think I'm ready to start working on my 3D application after this chapter, the rest of the tutorial consists of things that can be added onto my renderer later.
+
 ## 2024/10/03
 I completed the "Texture mapping" chapter of the tutorial. Judging by page count, I've completed around 80% of the tutorial. I've mostly enjoyed my time with it, but I'm getting to the point where I need a break from Vulkan's verboseness. Because of this, as I work through the tail end of the tutorial, I'll be allocating some of my time to learning wxWidgets (a well known cross-platform GUI library). My 3D application is going to need a graphical user interface, and wxWidgets seem to offer what I need.
 ## 2024/10/01
