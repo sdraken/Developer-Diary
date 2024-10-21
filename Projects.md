@@ -4,6 +4,7 @@ This is where I'll list my projects. My goal with these projects is to both high
 2. Mathematics (i.e. Calculus, Algebra, Discrete Mathematics, etc.)
 ## Links
 - [Distributed-Version-Control-101](https://github.com/sdraken/Distributed-Version-Control-101) A basic overview of distributed version control, what it is, and how I'll be using git throughout my projects
+- [ExhibitEngine](https://github.com/sdraken/Distributed-Version-Control-101) A project that aims to be a developer portfolio, presented in a 3D-interactive experience.
 ## Capabilities
 - Software development
 	- Algorithms

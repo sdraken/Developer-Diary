@@ -4,6 +4,20 @@ The Developer Diary will be contained within this singular markdown file. I migh
 Each entry starts with a header specifying the date. The diary is sorted in descending order with respect to dates. That is to say, new entries are placed at the top. 
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
+
+## 2024/10/21
+My new project [ExhibitEngine](https://github.com/sdraken/ExhibitEngine) (or at least its skeleton) is finally up on GitHub! ExhibitEngine aims to be a developer portfolio, presented in a 3D-interactive experience. I've been spending the last 1-2 weeks researching how I should structure this project, and how I could start implementing some initial features. I've mostly read and watched a lot about the creation of games/game-engines. I didn't really think of my project as a game, but it has a lot of overlap. The questions I've been mostly considering myself with have been things like,
+- Cross-platform VS Windows Only
+- A Single Executable VS A Lib And Application Structure
+- Static VS Shared Library
+- Windows SDK/API
+- Error Handling, Assertions and Logging in C++
+- Input handling: Polling VS Events
+- Separation Between Game and Game-Engine
+
+You can go into as much depth as you'd want into these topics, but I have at least gotten to the point where I feel like I could make something functional without devolving into spaghetti-code madness. I prefer to start writing non-optimal code then to fall into pre-optimization, although I fear that I've already fallen into that pitfall.
+
+Nevertheless the path forward is relatively clear, at least right now. I would say to expect frequent commits in the upcoming days, but unfortunately the second part of the semester is starting next week and my course load will increase significantly.
 ## 2024/10/09
 I completely understand the "Loading models" chapter of the tutorial, I still need to add the code and notes. I've been sick for the last couple of days, so progress has been slow but I've been reading a lot about things related to the chapter. I've also read about how I should go about structuring my 3D application, it's not only rendering that I need to consider. I think I'm ready to start working on my 3D application after this chapter, the rest of the tutorial consists of things that can be added onto my renderer later.
 
