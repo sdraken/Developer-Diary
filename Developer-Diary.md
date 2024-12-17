@@ -5,6 +5,9 @@ Each entry starts with a header specifying the date. The diary is sorted in desc
 
 There aren't going to be daily updates (Maybe "Developer Logbook" would have been a more descriptive name) but substantial changes in any of my projects should be reflected in the diary.
 
+## 2024/12/17
+School has been winding down so I've had some time to work on ExhibitEngine, progress has been slow but steady. I'm still learning a lot which makes it difficult to commit to a certain design since I don't know if I'm missing something crucial. For example, communication between components is not something I had considered in detail. Trying to make the window and renderer components communicate with each other has made it clear that I need some sort of event system. Overall I should read more about SoC (Separation of Concern) as the design pattern seems well suited for ExhibitEngine.
+
 ## 2024/10/21
 My new project [ExhibitEngine](https://github.com/sdraken/ExhibitEngine) (or at least its skeleton) is finally up on GitHub! ExhibitEngine aims to be a developer portfolio, presented in a 3D-interactive experience. I've been spending the last 1-2 weeks researching how I should structure this project, and how I could start implementing some initial features. I've mostly read and watched a lot about the creation of games/game-engines. I didn't really think of my project as a game, but it has a lot of overlap. The questions I've been mostly considering myself with have been things like,
 - Cross-platform VS Windows Only
